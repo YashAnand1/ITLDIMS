@@ -1,0 +1,193 @@
+Server IP,Type,Hostname,CPU,RAM,Internal_Disk,External_Disk,Internal_Partition,External_Partition,Application,API,LVM,VG,PV,NFS,Netmask,OS,Gateway,Environment
+10.246.40.139,Physical,vahanapp04,8,32GB,sda:500GB,"sdc:500GB
+sdd:500GB
+sde:500GB
+sdf:500GB
+sdg:500GB
+sdh:500GB","/:32GB
+/var:32GB
+/var/crash:293GB
+/home:32GB
+/opt:32GB
+/tmp:32GB
+/boot:5GB
+/boot/efi:2GB",u01:1000GB,"vahantaxws
+vahanpgi
+vahan
+vahanEmbassy","vahanHpaWS
+VahanInwardWS
+vahanDefacementWS
+vahanPGIwsHDFC
+vahanPGIwsNTRP
+vahanPGIwsRJeGRAS
+vahanPGIwsSBSChallanVerify
+vahanPGIwsSBS
+vahanPGIwsJKPayUBiz
+vahanPGIwsHPCTP
+vahanPGIwsPBifms
+vahanPGIwsSbi
+vahanPGIwsMLeGRAS
+vahanPGIwsSBIePay
+vahanPGIwsNsdl
+vahanPGIdashboardWS
+vahanInsuranceWS
+vahanPGIwsASeGRAS
+vahanPGIwsGAhdfc","home
+opt
+root
+swap
+tmp
+usr
+var
+var_crash
+lv0",/dev/mapper/vg0-lv0:1000GB,"PV Name=/dev/mapper/mpatha
+PV Size=499.98g
+PV Name=/dev/mapper/mpathb
+PV Size=499.98g
+PV Name=/dev/sda3
+PV Size=516.97g","NFSPartition name=/vahanapp
+NFSPartition Size=vahanapp_2500
+NFSPartition Source=10.246.40.207_/FPG1/VFS1/vahanapp01/vahanapp
+NFSPartition name=/nas01
+NFSPartition Size=nas01_500
+NFSPartition Source=10.246.40.207_/FPG1/VFS1/vahan4bkp/vahan4",255.255.255.128,RHEL 7.9,10.246.40.129,Production
+10.246.40.142,Physical,vahanapp05,8,32GB,sda:500GB,"sdc:500GB
+sdd:500GB
+sde:500GB
+sdf:500GB
+sdg:500GB
+sdh:500GB","/:32GB
+/var:32GB
+/var/crash:293GB
+/home:32GB
+/opt:32GB
+/tmp:32GB
+/boot:5GB
+/boot/efi:2GB",u01:1000GB,"vahantaxws
+vahanpgi
+vahan
+vahanEmbassy","vahanHpaWS
+VahanInwardWS
+vahanDefacementWS
+vahanPGIwsHDFC
+vahanPGIwsNTRP
+vahanPGIwsRJeGRAS
+vahanPGIwsSBSChallanVerify
+vahanPGIwsSBS
+vahanPGIwsJKPayUBiz
+vahanPGIwsHPCTP
+vahanPGIwsPBifms
+vahanPGIwsSbi
+vahanPGIwsMLeGRAS
+vahanPGIwsSBIePay
+vahanPGIwsNsdl
+vahanPGIdashboardWS
+vahanInsuranceWS
+vahanPGIwsASeGRAS
+vahanPGIwsGAhdfc","home
+opt
+root
+swap
+tmp
+usr
+var
+var_crash
+lv0",/dev/mapper/vg0-lv0:1000GB,"PV Name=/dev/mapper/mpatha
+PV Size=499.98g
+PV Name=/dev/mapper/mpathb
+PV Size=499.98g
+PV Name=/dev/sda3
+PV Size=516.97g","NFSPartition name=/vahanapp
+NFSPartition Size=vahanapp_2500
+NFSPartition Source=10.246.40.207_/FPG1/VFS1/vahanapp01/vahanapp
+NFSPartition name=/nas01
+NFSPartition Size=nas01_500
+NFSPartition Source=10.246.40.207_/FPG1/VFS1/vahan4bkp/vahan4",255.255.255.128,RHEL 7.9,10.246.40.129,Production
+10.246.40.152,Physical,vahanapp06,8,32GB,sda:500GB,"sdc:500GB
+sdd:500GB
+sde:500GB
+sdf:500GB
+sdg:500GB
+sdh:500GB","/:32GB
+/var:32GB
+/var/crash:293GB
+/home:32GB
+/opt:32GB
+/tmp:32GB
+/boot:5GB
+/boot/efi:2GB",u01:1000GB,"vahantaxws
+vahanpgi
+vahan
+vahanEmbassy","vahanHpaWS
+VahanInwardWS
+vahanDefacementWS
+vahanPGIwsHDFC
+vahanPGIwsNTRP
+vahanPGIwsRJeGRAS
+vahanPGIwsSBSChallanVerify
+vahanPGIwsSBS
+vahanPGIwsJKPayUBiz
+vahanPGIwsHPCTP
+vahanPGIwsPBifms
+vahanPGIwsSbi
+vahanPGIwsMLeGRAS
+vahanPGIwsSBIePay
+vahanPGIwsNsdl
+vahanPGIdashboardWS
+vahanInsuranceWS
+vahanPGIwsASeGRAS
+vahanPGIwsGAhdfc","home
+opt
+root
+swap
+tmp
+usr
+var
+var_crash
+lv0",/dev/mapper/vg0-lv0:1000GB,"PV Name=/dev/mapper/mpatha
+PV Size=499.98g
+PV Name=/dev/mapper/mpathb
+PV Size=499.98g
+PV Name=/dev/sda3
+PV Size=516.97g","NFSPartition name=/vahanapp
+NFSPartition Size=vahanapp_2500
+NFSPartition Source=10.246.40.207_/FPG1/VFS1/vahanapp01/vahanapp
+NFSPartition name=/nas01
+NFSPartition Size=nas01_500
+NFSPartition Source=10.246.40.207_/FPG1/VFS1/vahan4bkp/vahan4",255.255.255.128,RHEL 7.9,10.246.40.129,Production
+10.249.221.21,VM,SP-CHKP01,8,32GB,sda:105GB,sdb:500GB,"/:20GB
+/var:9GB
+/home:10GB
+/opt:6GB
+/tmp:10GB
+/boot:2GB
+/boot/efi:1GB",u01:322GB,checkpost,CheckpostWebService,"home
+opt
+root
+swap
+tmp
+usr
+var
+var_log_audit
+lv0",/dev/mapper/vg0-lv0:500GB,"PV Name=/dev/sda3
+PV Size=101.00g
+PV Name=/dev/sdb
+PV Size=500.00g",None,255.255.255.128,RHEL 8.7,10.249.221.1,Production
+10.249.221.22,VM,SP-CHKP02,8,32GB,sda:105GB,sdb:500GB,"/:20GB
+/var:9GB
+/home:10GB
+/opt:6GB
+/tmp:10GB
+/boot:2GB
+/boot/efi:1GB",u01:322GB,checkpost,CheckpostWebService,"home
+opt
+root
+swap
+tmp
+usr
+var
+var_log_audit
+lv0",/dev/mapper/vg0-lv0:500GB,"PV Name=/dev/sda3
+PV Size=101.00g
+PV Name=/dev/sdb
+PV Size=500.00g",None,255.255.255.128,RHEL 8.7,10.249.221.1,Production
